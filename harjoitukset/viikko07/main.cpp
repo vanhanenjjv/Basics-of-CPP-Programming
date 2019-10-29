@@ -23,7 +23,7 @@ void exercise_2() {
     cout << "Syötä suorakaiteen toisen sivun pituus: "; cin >> b;
     
     cout << "\nSuorakaiteen pinta-ala on " 
-         << Suorakaide(4, 14) 
+         << Suorakaide(a, b) 
          << "\n";
 }
 
